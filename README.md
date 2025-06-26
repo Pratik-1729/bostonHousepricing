@@ -1,5 +1,5 @@
 # bostonHousepricing
 ### software required
-[Github Account](https://github.com)
-[Herokuaccount](https://heroku.com)
-[VSCodeIDE](https://code.visualstudio.com/)
+1.[Github Account](https://github.com)
+2.[Herokuaccount](https://heroku.com)
+3.[VSCodeIDE](https://code.visualstudio.com/)
